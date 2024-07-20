@@ -26,7 +26,7 @@ const Home = () => {
 
     return ( <>
         <section className='jusoverflow-hidden px-5'>
-            <h1>Teste de car
+            <h1>Site React Compras com API fake store v1
             </h1>
             <ul className="flex align-items-center grid list-none p-0">
                 {
